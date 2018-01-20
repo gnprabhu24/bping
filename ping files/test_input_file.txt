@@ -1,0 +1,7 @@
+router		192.168.0.1
+router		192.168.0.9
+router		192.168.0.5
+router		192.168.0.4
+subnet		127.0.0.4
+router		192.168.7.4
+subnet		127.0.0.9
